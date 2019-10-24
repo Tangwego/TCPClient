@@ -1,0 +1,7 @@
+E:\Workspace\TcpClient\TcpClient\bin\Debug\TcpClient.exe
+E:\Workspace\TcpClient\TcpClient\bin\Debug\TcpClient.pdb
+E:\Workspace\TcpClient\TcpClient\obj\x86\Debug\TcpClient.Form1.resources
+E:\Workspace\TcpClient\TcpClient\obj\x86\Debug\TcpClient.Properties.Resources.resources
+E:\Workspace\TcpClient\TcpClient\obj\x86\Debug\TcpClient.csproj.GenerateResource.Cache
+E:\Workspace\TcpClient\TcpClient\obj\x86\Debug\TcpClient.exe
+E:\Workspace\TcpClient\TcpClient\obj\x86\Debug\TcpClient.pdb

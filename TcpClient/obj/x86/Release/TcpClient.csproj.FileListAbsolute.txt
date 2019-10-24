@@ -1,0 +1,7 @@
+E:\Workspace\TcpClient\TcpClient\bin\Release\TcpClient.exe
+E:\Workspace\TcpClient\TcpClient\bin\Release\TcpClient.pdb
+E:\Workspace\TcpClient\TcpClient\obj\x86\Release\TcpClient.Form1.resources
+E:\Workspace\TcpClient\TcpClient\obj\x86\Release\TcpClient.Properties.Resources.resources
+E:\Workspace\TcpClient\TcpClient\obj\x86\Release\TcpClient.csproj.GenerateResource.Cache
+E:\Workspace\TcpClient\TcpClient\obj\x86\Release\TcpClient.exe
+E:\Workspace\TcpClient\TcpClient\obj\x86\Release\TcpClient.pdb
